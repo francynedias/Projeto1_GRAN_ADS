@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border:rgb(255, 165, 160) ridge  3px;
+
+    margin: 30px 0 30px 0;
+
+    padding: 30px;
+
+    text-align: center;
+
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+footer{
+    background-color: rgb(255, 165, 160);
+    color:black;
+    padding: 25px;
+}
+
+.produto-item{
+    color:coral;
+    font-weight:bold;
+}
